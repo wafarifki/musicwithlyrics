@@ -392,19 +392,25 @@ body .player .right .bottom video {
 }
 
 .float-fb {
-    top: 170px;
+    top: 100px;
     background: #4e89ae;
     font-weight: bold;
 }
 
 .float-ig {
-    top: 240px;
+    top: 160px;
     background: #ed6663;
     font-weight: bold;
 }
 
 .float-web {
-    top: 310px;
+    top: 220px;
     background: #ffaa71;
+    font-weight: bold;
+}
+
+.float-git {
+    top: 280px;
+    background: #505050;
     font-weight: bold;
 }
