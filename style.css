@@ -292,6 +292,30 @@ body .player .right .bottom video {
 }
 
 .g-snows>li:nth-child(5) {
+    left: 28%;
+    width: 13px;
+    height: 13px;
+    -webkit-animation-duration: 10000ms;
+    animation-duration: 10000ms;
+    -webkit-animation-delay: 4283ms;
+    animation-delay: 4283ms;
+    -webkit-filter: blur(0px);
+    filter: blur(0px);
+}
+
+.g-snows>li:nth-child(6) {
+    left: 16%;
+    width: 15px;
+    height: 15px;
+    -webkit-animation-duration: 7139ms;
+    animation-duration: 7139ms;
+    -webkit-animation-delay: 4935ms;
+    animation-delay: 4935ms;
+    -webkit-filter: blur(3px);
+    filter: blur(3px);
+}
+
+.g-snows>li:nth-child(5) {
     left: 21%;
     width: 1px;
     height: 1px;
