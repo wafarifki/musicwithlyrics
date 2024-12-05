@@ -11,7 +11,6 @@ added snow effect, added social button, improve design and a many feature...
 demo : https://wafarifki.github.io/musicwithlyrics/
 
 # Let's connect with me!
-# Let's connect with me!
 <p>
     <a href="https://wafarifki.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.github.io-blue?" /></a>
     <a href="https://wafarifki.com" target="_blank"><img src="https://img.shields.io/badge/Website-https://wafarifki.com-blue?" /></a>
